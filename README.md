@@ -1,10 +1,9 @@
-- 👋 
-Hi, I’m @brunojbela
-10 years of experience in web development
-Development of wordpress themes and themes
+- 👋 Hi, I’m @brunojbela
+- 10 years of experience in web development
+- Development of wordpress themes and themes
 
 
-contacts at bruno.jbela@gmail.com
+- contacts at bruno.jbela@gmail.com
 
 
 <!---
